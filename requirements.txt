@@ -1,0 +1,11 @@
+streamlit
+streamlit-drawable-canvas
+tensorflow
+scipy
+numpy
+pandas
+scikit-learn
+pillow
+matplotlib
+seaborn
+keras-tuner
